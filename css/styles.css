@@ -180,8 +180,11 @@ body {
 .section-main-busines {
   background-color: #2e2f42;
   padding: 188px 0;
-  background-image: url(/images/background/people-office\ 1.jpg);
-  background-repeat: no-repeat;
+  background-image: linear-gradient(
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(/images/background/people-office\ 1.jpg);
   background-size: cover;
 }
 .modal-open-button {
