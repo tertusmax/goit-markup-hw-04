@@ -186,6 +186,10 @@ body {
     ),
     url(/images/background/people-office\ 1.jpg);
   background-size: cover;
+  max-width: 1440px;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-right: auto;
 }
 .modal-open-button {
   font-family: "Roboto", sans-serif;
