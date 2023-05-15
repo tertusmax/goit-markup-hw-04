@@ -380,3 +380,8 @@ ul {
   height: 112px;
   margin-bottom: 8px;
 }
+.icon-team {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
