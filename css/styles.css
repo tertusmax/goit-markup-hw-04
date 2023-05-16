@@ -420,10 +420,34 @@ ul {
   display: flex;
   justify-content: center;
   align-items: center;
+  color: #8e8f99;
 }
 .main-list-customers {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 24px;
+}
+.main-title-customers {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.1;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+  margin-bottom: 72px;
+}
+.main-list-customers-item {
+  line-height: 88px;
+  width: calc((100% - 120px) / 6);
+}
+.main-link-customers:hover,
+.main-link-customers:focus {
+  border-color: #404bbf;
+  color: #404bbf;
+}
+.customers-icon {
+  fill: currentColor;
 }
