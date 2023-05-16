@@ -408,3 +408,22 @@ ul {
 .team-icon-svg {
   fill: #f4f4fd;
 }
+.section-main-customers {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.main-link-customers {
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main-list-customers {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+}
