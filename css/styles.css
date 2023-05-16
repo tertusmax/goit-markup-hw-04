@@ -451,3 +451,7 @@ ul {
 .customers-icon {
   fill: currentColor;
 }
+.footer-section-container {
+  display: flex;
+  align-items: baseline;
+}
