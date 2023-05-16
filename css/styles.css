@@ -492,7 +492,7 @@ ul {
 .footer-icon-svg {
   fill: #f4f4fd;
 }
-.team-footer-link:hover,
-.team-footer-link:focus {
+.footer-link-icon:hover,
+.footer-link-icon:focus {
   background-color: #31d0aa;
 }
