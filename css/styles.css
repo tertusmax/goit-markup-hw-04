@@ -440,7 +440,7 @@ ul {
   margin-bottom: 72px;
 }
 .main-list-customers-item {
-  line-height: 88px;
+  height: 88px;
   width: calc((100% - 120px) / 6);
 }
 .main-link-customers:hover,
