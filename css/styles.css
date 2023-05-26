@@ -57,6 +57,7 @@ button {
 
   color: #ffffff;
   max-width: 496px;
+  margin: 0 auto;
 }
 .modal-open-btn {
   font-family: "Roboto", sans-serif;
@@ -207,8 +208,7 @@ body {
   min-width: 169px;
   height: 56px;
   border: none;
-  margin-left: 160px;
-  margin-top: 48px;
+  margin: 48px auto 0 auto;
 }
 .modal-open-button:hover,
 .modal-open-button:focus {
@@ -289,9 +289,6 @@ img {
 }
 ul {
   padding: 0px;
-}
-.busines-section-container {
-  padding: 0 331px 0 331px;
 }
 .main-list {
   display: flex;
